@@ -609,7 +609,8 @@ class AutoUpdateThread(QRunnable):
 
         if response.status_code == 200:
             self.assets = response.json()
-            self.logger.info(f"Got Update Information for: {self.assets["version"]}")
+        #    self.logger.info(f"Got Update Information for: {self.assets["version"]}")
+            self.logger.info(f"Got Update Information for: {self.assets['version']}")
 
         elif response.status_code == 502 or response.status_code == 530 or response.status_code == 500:
             self.logger.error("Server is currently unable to return the update information. Please try again later...")
