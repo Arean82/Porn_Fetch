@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Due to a lot of stress in school the next weeks as I write the exams for the second quarter and some **special** (but great) things that happened in my life I
+> will pause development until 15th of May. I will only fix issues and that's it. 
+
+
 <div align = center>
 <img src="https://github.com/EchterAlsFake/Porn_Fetch/blob/master/src/frontend/graphics/logo_transparent.png" alt="Porn Fetch Logo" width="350"/>
 <br>
@@ -75,6 +80,14 @@
 > If you aren't tech savy, please read through this guide.
 
 **A detailed installation guide for all platforms can be found** [HERE](https://github.com/EchterAlsFake/Porn_Fetch/blob/master/README/INSTALLATION.md)
+
+## Licensing / Paid Features
+> [!CAUTION]
+> Porn Fetch is entirely free to use by anyone who uses / compiles Porn Fetch from source. Those who use the release
+> assets from GitHub have the following locked behind a 5€ fee:
+
+- 1080+ downloads
+- parallel downloads
 
 ## General Information
 > [!NOTE]
